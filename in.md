@@ -1,0 +1,77 @@
+- ## Investigación industrial
+	- investigación planificada o estudios críticos
+		- nuevos conocimientos y aptitudes para
+			- desarrollar
+				- nuevos productos
+				- procesos
+				- servicios
+			- mejora significativa
+				- productos
+				- procesos
+				- servicios existentes ^^oferta flexible en RIS^^
+		- Se incluyen
+			- productos
+			- procesos
+			- servicios digitales ^^ips wallet^^
+		- De cualquier
+			- ámbito
+			- tecnología
+			- industria ^^aseguramiento^^
+			- sector ^^salud^^
+			- incluidas, aunque no exclusivamente
+				- las industrias y tecnologías digitales como:
+					- supercomputación
+					- tecnologías cuánticas
+					- tecnologías de cadena de bloques ^^lead^^
+					- la inteligencia artificial ^^lead^^
+					- ciberseguridad
+					- macrodatos
+					- tecnologías en la nube
+	- la investigación incluye
+		- creación de componentes de sistemas complejos
+	- puede incluir
+		- construcción de prototipos
+			- entorno de laboratorio
+			- entorno con interfaces simuladas con los sistemas existentes, así como
+		- líneas piloto (validación de tecnología genérica) ^^unidades móviles inteligentes itinerantes^^
+- ## Desarrollo experimental
+	- Adquisición
+	- Combinación
+	- Configuración
+	- Utilización de
+		- Conocimientos y capacidades
+			- Científicos
+			- Tecnológicos
+			- Empresariales ^^unidades móviles ya desplegadas en españa para cirugía de día^^
+			- Otros tipos
+		- Objetivo de
+			- Desarrollar
+				- Productos
+				- Procesos
+				- Servicios nuevos o mejorados ^^oferta flexible en RIS^^
+			- Incluidos
+				- Productos
+				- Procesos
+				- Servicios digitales ^^seguimiento mediante su ips wallet^^
+			- En cualquier
+				- Ámbito
+				- Tecnología
+				- Industria ^^aseguramiento^^
+				- Sector ^^salud^^
+			- Incluidas
+				- Industrias y tecnologías digitales
+					- Supercomputación
+					- Tecnologías cuánticas
+					- Cadena de bloques ^^lead^^
+					- Inteligencia artificial ^^lead^^
+					- Ciberseguridad
+					- Macrodatos
+					- Computación en nube o periférica
+			- Podrá englobar
+				- Actividades
+					- Definición conceptual
+					- Planificación
+					- Documentación
+						- Nuevos productos ^^para integraciones verticales de las IAFAS privadas^^
+						- Procesos
+						- Servicios ^^oferta móvil flexible como servicio^^
